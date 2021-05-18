@@ -1,19 +1,32 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\ITAUser\Desktop\workspace python\.metadata\.plugins\org.eclipse.core.resources\.projects\variables\com.python.pydev.analysis\v2_indexcache
-practice|1613069642418616200|C:\Users\ITAUser\Desktop\workspace python\variables\practice.py
+variableDrills|1621365381189456300|C:\Users\ITAUser\Desktop\workspace python\variables\variableDrills.py
+practice|1621280026570658100|C:\Users\ITAUser\Desktop\workspace python\variables\practice.py
+variablesOutline|1621280238536436400|C:\Users\ITAUser\Desktop\workspace python\variables\variablesOutline.py
 -- END DISKCACHE
 -- START DICTIONARY
-2
-1=C:\Users\ITAUser\Desktop\workspace python\variables\practice.py
-2=practice
+6
+3=C:\Users\ITAUser\Desktop\workspace python\variables\practice.py
+6=variableDrills
+4=practice
+2=variablesOutline
+1=C:\Users\ITAUser\Desktop\workspace python\variables\variablesOutline.py
+5=C:\Users\ITAUser\Desktop\workspace python\variables\variableDrills.py
 -- END DICTIONARY
 -- START TREE 1
-4
-A|1|A!1^12#1*19@
-X|1|X!1^42#1*19@
-a|1|a!1^10#1*19@
-x|1|x!1^40#1*19@
+11
+A|2|A!1^10#1*19@A!3^12#1*35@
+B|1|B!1^14#1*19@
+C|1|C!1^18#1*19@
+G|1|G!1^46#1*19@
+N|1|N!1^53#1*19@
+X|1|X!3^42#1*35@
+a|2|a!1^12#1*19@a!3^10#1*35@
+b|1|b!1^16#1*19@
+j|1|j!1^55#1*19@
+nam|1|name!5^6#1*51@
+x|1|x!3^40#1*35@
 -- END TREE
 -- START TREE 2
 0
