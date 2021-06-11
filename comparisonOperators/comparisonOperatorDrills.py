@@ -79,12 +79,13 @@ q = (o > p)
 #15) Take the square root of 96 and store that in variable r, then square 8.6 and store
 #  ) that in variable s, finally check if r is greater than or equal to s and store the
 #  ) answer in t
+import math 
 
-r = 9.79
+r = math.sqrt(96)
 
-s = 2.9
+s = 8.6**2
 
-t = r >= s 
+t = (r >= s)
 
 '''
 For the next section, you will be reading comparison statements and determining their answer
@@ -152,7 +153,7 @@ True
 #  ) b = "Word"
 #  ) a == b
 
-True 
+False 
 
 #11) (10/5) == (12/6)
 
@@ -172,7 +173,7 @@ True
 #  ) b = 5
 #  ) (a/b) == (12/6)
 
-False 
+True 
 
 #15) a = 10
 #  ) b = 5
