@@ -1109,3 +1109,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.python.pydev.shared_core 4 4 2021-06-11 12:48:13.858
 !MESSAGE Info: Rebuilding internal caches: C:\Users\ITAUser\Desktop\workspace python\.metadata\.plugins\org.eclipse.core.resources\.projects\project 2\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+
+!ENTRY org.python.pydev.shared_core 4 4 2021-06-16 13:15:57.492
+!MESSAGE Info: Rebuilding internal caches: C:\Users\ITAUser\Desktop\workspace python\.metadata\.plugins\org.eclipse.core.resources\.projects\logicalOperators\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
